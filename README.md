@@ -69,7 +69,7 @@ This is the details of how to get in touch with the developer.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [https://github.com/ProgramKingAbel/Abel-Morara-Portfolio/pull/1](https://google.com)
+- [https://programkingabel.github.io/](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
