@@ -69,7 +69,7 @@ This is the details of how to get in touch with the developer.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [https://programkingabel.github.io/](https://google.com)
+- [Go to Live site](https://programkingabel.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
