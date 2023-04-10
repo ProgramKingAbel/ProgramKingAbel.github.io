@@ -155,6 +155,14 @@ Localhost on your computer through a local Server:
  https://www.apachefriends.org/download.html
 ```
 
+Or:
+
+Github Pages:
+
+```sh
+ https://pages.github.com/
+```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
